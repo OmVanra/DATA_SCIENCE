@@ -1,0 +1,2 @@
+New content overwrites old content.
+File mode 'w' used again.
